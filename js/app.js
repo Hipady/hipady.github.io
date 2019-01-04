@@ -46,7 +46,7 @@ function render(data) {
       if (index < 6) {
          var html = $(`
                         <div class="column col-3">
-                           <div class="item animate fadeUp" data-animate="fadingUp">
+                           <div class="item github animate fadeUp" data-animate="fadingUp">
                               <a href="${item.html_url}" target="_blank">
                                  <h4 title="${item.name}">${item.name}</h4>
                                  <p class="sub" title="${item.description}">${item.description}</p>

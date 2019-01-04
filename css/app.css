@@ -123,6 +123,8 @@ section {
       width: 100%;
       position: relative;
       box-shadow: 0 4px 10px 1px rgba(0, 10, 56, 0.1); }
+      section .columns .item.github {
+        padding: 26px 18px; }
       section .columns .item .info {
         padding: 20px 18px; }
       section .columns .item .img {
