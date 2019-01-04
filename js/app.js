@@ -68,6 +68,7 @@ function render(data) {
          $('body .github-projects .columns').append(html)
       }
    })
+   
 }
 
 function getRepos() {
